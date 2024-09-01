@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning advanced python and AI
 - 💞️ I’m looking to collaborate on web dev project
 - 📫 How to reach me discord: ronwizlyisthegoat
-- 😄 Pronouns: NONE
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ummmm, I LOVE MUSIC
 
